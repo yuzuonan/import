@@ -1,6 +1,6 @@
 {
 ## spider
-"spider":"https://tvyy.coding.net/p/tvbox/d/TVBox/git/raw/master/custom_spider.jar",
+"spider":"http://118.190.244.195/tvmovie/custom_spider.jar",
 
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
